@@ -14,7 +14,7 @@ import requests
 import json
 
 #constants
-api_key = '41d9ba448e65798869d607947cfa85a0c4dc628f0176c2b017d788d6fad30623'
+api_key = '<your-api-key>'
 apps_list = ['Travis Singular Test App', 'Android Sample App']
 app_subdomain = {
     'Travis Singular Test App' : 'se',
