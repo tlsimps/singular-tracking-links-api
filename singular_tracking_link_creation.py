@@ -2,14 +2,6 @@
 #last update 2023/01/26
 #Tracking link creatiion with helper API examples - first iteration
 
-"""
-Next steps
-1. create a Google sheet that replicates a customer database or link creation process (e.g. Glu's system that takes app, campaign name, etc. to create link)
-2. dynamic ios and android redirects (currently fails on creating andriod app link for validation test)
-3. deep linking urls
-"""
-
-
 import requests
 import json
 
