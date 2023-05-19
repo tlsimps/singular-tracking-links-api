@@ -7,10 +7,10 @@ import json
 
 #constants
 api_key = '<your-api-key>'
-apps_list = ['Travis Singular Test App', 'Android Sample App']
+apps_list = ['TLS Sample Apps', 'TLS React Native']
 app_subdomain = {
-    'Travis Singular Test App' : 'se',
-    'Android Sample App' : 'jared'
+    'TLS Sample Apps' : 'seteam',
+    'TLS React Native' : 'jospm'
 }
 app_platform = ['android', 'ios']
 tracker_name = '_test_tracking_link_name'
